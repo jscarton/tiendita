@@ -40,7 +40,6 @@
     "oscarotero/env": "^1.0",
     "roots/wp-password-bcrypt": "1.0.0",
     "wpackagist-plugin/woocommerce": "2.5.5",
-    "wpackagist-theme/mesocolumn": "1.6.5.1",
     "wpackagist-plugin/yith-woocommerce-quick-view": "1.1.0",
     "wpackagist-plugin/yith-woocommerce-product-slider-carousel": "1.0.9"
   },
