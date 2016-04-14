@@ -1,4 +1,7 @@
 <?php
+
+add_filter('widget_text', 'do_shortcode');
+
 if ( ! function_exists( 'dez_mp_theme_wp_title' ) ) :
 ///////////////////////////////////////////////////////////////////////////////////////
 // Custom WP TITLE - Credit to WordPress Team
