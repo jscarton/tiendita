@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "f0fe4116030322ea7b31586a39a2d531",
-    "content-hash": "54f4a35a61058554dc8ae4aff8e776d5",
+    "hash": "135f9eae3e601c66554e61b540207e92",
+    "content-hash": "ebaaeedb0059e036c580e6e8446df226",
     "packages": [
         {
             "name": "composer/installers",
@@ -401,26 +401,6 @@
             },
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/yith-woocommerce-quick-view/"
-        },
-        {
-            "name": "wpackagist-theme/mesocolumn",
-            "version": "1.6.5.1",
-            "source": {
-                "type": "svn",
-                "url": "https://themes.svn.wordpress.org/mesocolumn/",
-                "reference": "1.6.5.1"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/theme/mesocolumn.1.6.5.1.zip",
-                "reference": null,
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-theme",
-            "homepage": "https://wordpress.org/themes/mesocolumn/"
         }
     ],
     "packages-dev": [
