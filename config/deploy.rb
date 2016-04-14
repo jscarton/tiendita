@@ -7,7 +7,7 @@ set :repo_url, 'https://github.com/jscarton/tiendita.git'
 
 # Hardcodes branch to always be master
 # This could be overridden in a stage config file
-set :branch, ENV['branch'] || 'master'
+set :branch, :master
 
 set :deploy_to, "/var/www/tienda"
 
